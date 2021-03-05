@@ -1,2 +1,2 @@
 # GoAniFire
-This is in public beta testing at the moment.
+Feel free to host this on Heroku or Localhost. But NOT EvenNode! Because you will get a DMCA complaint if you do that.
